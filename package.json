@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "JS code",
+  "keywords": [
+    "javaScript",
+    "js"
+  ],
+  "homepage": "https://github.com/Smitkothari2006/Js#readme",
+  "bugs": {
+    "url": "https://github.com/Smitkothari2006/Js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smitkothari2006/Js.git"
+  },
+  "license": "ISC",
+  "author": "Smit Kothari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
